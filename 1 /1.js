@@ -1,6 +1,5 @@
 
 
- <script type="text/javascript" src="1/1.js"></script>
 
 
 
